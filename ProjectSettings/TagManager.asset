@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - Moveable
+  - Platform
+  - Zahl
   layers:
   - Default
   - TransparentFX
